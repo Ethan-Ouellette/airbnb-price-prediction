@@ -1,0 +1,12 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+env/
+venv/
+*.sqlite3
+.DS_Store
+*.log
+keras_tuner_dir/
+submissions/
+datas/
